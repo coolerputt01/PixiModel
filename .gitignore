@@ -1,2 +1,5 @@
+# src folders
 .vscode/
 builds/
+SFML/
+emsdk/
